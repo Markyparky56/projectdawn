@@ -6,9 +6,9 @@
 /**********************************************/
 
 // Include Library Headers
-#include "RedDawn.hpp"
-#include "GreenDawn.hpp"
-#include "BlueDawn.hpp"
+#include "../RedDawn/include/RedDawn.hpp"
+#include "../GreenDawn/Include/GreenDawn.hpp"
+#include "../BlueDawn/Include/BlueDawn.hpp"
 
 // NDFramework
 // Defines Human Interface, Profiing & Debug, Resources & Management
