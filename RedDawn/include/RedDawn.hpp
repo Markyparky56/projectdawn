@@ -12,7 +12,9 @@
 #  define RD_EXPORT
 #endif
 
+#ifdef _WIN32
 BOOL WINAPI DllMain(__in HINSTANCE hinstDLL, __in DWORD fdwReason, __in LPVOID lpcReserved);
+#endif
 
 namespace RedDawn
 {
