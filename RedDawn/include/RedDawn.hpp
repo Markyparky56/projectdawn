@@ -4,6 +4,7 @@
 // Author: Mark A. Ropper
 // Created: 00:01 2015/09/28
 /**********************************************/
+#include "NDFramework.hpp"
 
 #ifdef _WIN32
 #include <Windows.h>
