@@ -14,6 +14,7 @@ set(PROJECT_INCLUDE_DIR ${PROJECT_SOURCE_DIR}/include)
 
 include_directories("${NDF_INCLUDE_DIR}")
 
+add_subdirectory(NDFramework)
 add_subdirectory(RedDawn)
 add_subdirectory(GreenDawn)
 add_subdirectory(BlueDawn)
